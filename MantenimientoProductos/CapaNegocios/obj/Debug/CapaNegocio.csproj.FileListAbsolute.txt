@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Bryan\Documents\1Alt\PROYECTO01\MantenimientoProductos\CapaNegocios\obj\Debug\CapaNegocios.pdb
